@@ -1,0 +1,27 @@
+From: "Bank Security" <security@fakebank.com>
+To: victim@example.com
+Subject: Urgent: Verify Your Account Now!
+Date: Fri, 17 May 2025 12:30:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+Authentication-Results: spf=fail (google.com: domain of fakebank.com does not designate 192.0.2.1 as permitted sender) smtp.mailfrom=fakebank.com
+
+Dear Customer,
+
+We detected suspicious activity on your bank account. To protect your funds, please verify your account immediately by clicking one of the links below:
+
+http://fakebank.com.verify-user-security-login.com/verify  
+https://secure-login.fakebank-verify.com/account/update  
+http://login.fakebank-secure-update.com/login.php?user=12345
+
+Failure to verify your account within 24 hours will result in temporary suspension.
+
+Thank you for your prompt attention.
+
+Best regards,  
+Bank Security Team
+
+---
+
+This email is intended only for the recipient. If you are not the intended recipient, please delete this message immediately.
